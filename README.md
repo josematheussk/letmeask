@@ -1,7 +1,6 @@
 ## 🖥️ Acesso ao site
 
-O projeto já está disponível e online no link a seguir! 
-
+O acesso à aplicação já está disponível [aqui](https://letmeask-jmsk.firebaseapp.com/), ou no seguinte link:
 https://letmeask-jmsk.firebaseapp.com/
 
 ## 🧪 Tecnologias
