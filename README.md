@@ -1,3 +1,8 @@
+## 🖥️ Acesso ao site
+
+O acesso à aplicação já está disponível [aqui](https://letmeask-jmsk.firebaseapp.com/), ou no seguinte link:
+
+https://letmeask-jmsk.firebaseapp.com/
 
 ## 🧪 Tecnologias
 
@@ -11,4 +16,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática. 
 
-Este é um projeto desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentada dos dias 20 a 27 de Junho de 2021.
+A vesão publicada neste repositório foi desenvolvida por mim, porém a ideia, layout, UI/UX e regras de negócio do sistema foram idealizadas e pré-desenvolvidas pela [Rocketseat](https://rocketseat.com.br/) na [Next Level Week Together](https://app.rocketseat.com.br/nlw-together/tracks), apresentada dos dias 20 a 27 de Junho de 2021. 
+
+Ficam aqui meus sinceros agradecimentos pelas oportunidades de aprendizado. 💜
+
+#neverstoplearning
