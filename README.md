@@ -20,4 +20,4 @@ A vesão publicada neste repositório foi desenvolvida por mim, porém a ideia, 
 
 Ficam aqui meus sinceros agradecimentos pelas oportunidades de aprendizado. 💜
 
-#neverstopleaning
+#neverstoplearning
